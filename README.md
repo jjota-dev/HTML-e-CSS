@@ -2,4 +2,4 @@
 
 Estudos de HTML e CSS
 
-estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
+Estou estudando HTML e CSS. Agora irei aprender a gernciar o repositório.
